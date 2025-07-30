@@ -47,3 +47,16 @@ translator problem:
  translator problem:
    课程名:NewConceptEnglish-2 课:009 例句:33         进度：94.2%          时长：285
    The tourist season runs from June til October.
+
+ translator problem:
+   课程名:NewConceptEnglish-2 课:012 例句:30         进度：11.9%          时长：125
+   I'm leaving for London tomorrow
+
+ grammar problem:
+  课程名:NewConceptEnglish-2 课:012 例句:30 进度：11.9% 时长：125
+  我明天要去伦敦
+  I'm leaving for London tomorrow
+ grammar problem:
+   课程名:NewConceptEnglish-2 课:013 例句:9         进度：81.8%          时长：750
+   像往常一样，警方会遇到困难。
+   As usual, the police will have a difficult time.
