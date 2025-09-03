@@ -65,3 +65,26 @@ translator problem:
    课程名:AnarchyUnbound 课:07 例句:3         进度：75.0%          时长：254
    该逻辑的一个众所周知的结果是，当此类游戏只玩一次时，相互不合作是独特的纳什均衡。
    A well-known result of that logic is that mutual noncooperation is the unique Nash equilibrium when such games are played but once.
+
+ grammar problem:
+   课程名:NewConceptEnglish-2 课:030 例句:8
+   struck为啥不是过去式
+  The ball struck him so hard that he nearly fell into the water.
+
+ translator problem:
+   [1;33mLesson group name:[0m AnarchyUnbound [1;33mLesson name:[0m merge [1;33mContent type:[0m sentence [1;33mOperate mode:[0m read
+[1;33mSentence index:[0m 82         [1;33mProgress number:[0m 43.8%         [1;33mDuration info:[0m 1692
+   但这种概念存在一些问题，迫使我在至少两篇文章中以不同的方式构想政府，从而理解无政府状态。
+   But there are several problems with this conception that compel me in at least two essays to conceive of government, and thus anarchy, somewhat differently.
+
+ read problem:
+   [1;33mLesson group name:[0m NewConceptEnglish-2 [1;33mLesson name:[0m 032 [1;33mContent type:[0m sentence [1;33mOperate mode:[0m listen
+[1;33mSentence index:[0m 2         [1;33mProgress number:[0m 60.0%         [1;33mDuration info:[0m 211
+   人们不像以前那样诚实了。
+   People are not so honest as they once were.
+
+ read problem:
+   [1;33mLesson group name:[0m NewConceptEnglish-2 [1;33mLesson name:[0m 032 [1;33mContent type:[0m sentence [1;33mOperate mode:[0m listen
+[1;33mSentence index:[0m 7         [1;33mProgress number:[0m 70.0%         [1;33mDuration info:[0m 879
+   过了一会儿，她选择了店里最贵的一件衣服，交给了一位助手，助手以最快的速度为她包好了。
+   After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.
