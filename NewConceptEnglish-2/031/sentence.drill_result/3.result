@@ -1,1 +1,2 @@
 Frank is now the head of \033[1;31ma\033[0m very large business company, but as a boy he used to work in a small shop.
+Frank is now the head of a very large business \033[1;31mcompany\033[0m, but as a boy \033[1;31mhe\033[0m used to work in a small shop.
