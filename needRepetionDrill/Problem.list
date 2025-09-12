@@ -94,3 +94,19 @@ translator problem:
 [1;33mSentence index:[0m 7         [1;33mProgress number:[0m 58.3%         [1;33mDuration info:[0m 617
    Hart 先生多年来一直训练他的女儿。
    Mr Hart has trained his daughter for years.
+
+translator problem:
+  [1;33mLesson group name:[0m NewConceptEnglish-2 [1;33mLesson name:[0m 039 [1;33mContent type:[0m sentence [1;33mOperate mode:[0m listen
+[1;33mSentence index:[0m 2         [1;33mProgress number:[0m 44.4%         [1;33mDuration info:[0m 547
+  While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.
+
+translator problem:
+  [1;33mLesson group name:[0m NewConceptEnglish-2 [1;33mLesson name:[0m 039 [1;33mContent type:[0m sentence [1;33mOperate mode:[0m listen
+[1;33mSentence index:[0m 3         [1;33mProgress number:[0m 66.6%         [1;33mDuration info:[0m 571
+  The following day, the patient asked for a bedside telephone.
+
+ translator problem:
+   [1;33mLesson group name:[0m AnarchyUnbound [1;33mLesson name:[0m merge [1;33mContent type:[0m sentence [1;33mOperate mode:[0m read
+[1;33mSentence index:[0m 109         [1;33mProgress number:[0m 58.2%         [1;33mDuration info:[0m 1430
+   相比之下，一个治理机构，即使它是一个领土上唯一制定和执行社会规则的机构，即使它暴力地执行这些规则，只要它所管辖的每个人事先都明确同意，它就是自治的一个例子到一样多。
+   In contrast, a governance agency, even if it's the sole agency in a territory that creates and enforces social rules, and even if it enforces those rules violently, is an example of self-governance provided that every person it governs has previously and explicitly consented to as much.
