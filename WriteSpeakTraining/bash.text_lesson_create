@@ -1,0 +1,23 @@
+#!/bin/bash
+
+dirPathLocal=$(pwd)
+dirPathLocalTool=$(cd $(dirname ${BASH_SOURCE[0]}); pwd)
+lessonName=$1
+
+mkdir "${dirPathLocalTool}/${lessonName}"
+
+filePathDataItemImitateTextEnglish="${dirPathLocalTool}/${lessonName}/imitate.text_english"
+filePathDataItemImitateTextChinese="${dirPathLocalTool}/${lessonName}/imitate.text_chinese"
+filePathDataItemImitateTextAnalysis="${dirPathLocalTool}/${lessonName}/imitate.text_analysis"
+
+touch $filePathDataItemImitateTextEnglish $filePathDataItemImitateTextChinese $filePathDataItemImitateTextAnalysis
+
+ln -s $filePathDataItemImitateTextEnglish "${dirPathLocalTool}/${lessonName}/sentence.text_english"
+ln -s $filePathDataItemImitateTextChinese "${dirPathLocalTool}/${lessonName}/sentence.text_chinese"
+ln -s $filePathDataItemImitateTextAnalysis "${dirPathLocalTool}/${lessonName}/sentence.text_analysis"
+
+ln -s $filePathDataItemImitateTextEnglish "${dirPathLocalTool}/${lessonName}/article.text_english"
+ln -s $filePathDataItemImitateTextChinese "${dirPathLocalTool}/${lessonName}/article.text_chinese"
+ln -s $filePathDataItemImitateTextAnalysis "${dirPathLocalTool}/${lessonName}/article.text_analysis"
+
+gedit $filePathDataItemImitateTextEnglish $filePathDataItemImitateTextChinese $filePathDataItemImitateTextAnalysis
