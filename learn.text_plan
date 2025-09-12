@@ -80,11 +80,11 @@ Date:20250903
 ======================================================================
  Transcription training
  Lesson: NewConceptEnglish2,03/33
- DrillResult:fished
+ DrillResult:unfished
  ------------------
  Listening training
  Lesson: NewConceptEnglish2:26/33
- DrillResult:fished
+ DrillResult:unfished
  ----------------
  Reading training
  DrillResult:unfished
@@ -97,3 +97,139 @@ Date:20250903
 	2. The essay or conversation should contain at least four sentences or 30 words.
 	3. The part that cannot be output can be replaced by Chinese
 	4. After the simulation, record the conversation and perform error checking and summary.
+
+
+
+
+Date:20250904
+======================================================================
+ Transcription training
+ Lesson: NewConceptEnglish2,33/34
+ DrillResult:unfished
+ ------------------
+ Listening training
+ Lesson: NewConceptEnglish2:33/34
+ DrillResult:unfished
+ ----------------
+ Reading training
+ DrillResult:unfished
+ Demand: Read the book "AnarchyUnbound" for 5 sentences:88~93
+ ----------------
+ Write & Speak training
+ DrillResult:unfished
+ Demand: 
+ 	1. Please write an essay based on the content and skills of today's practice session.
+	2. The essay or conversation should contain at least four sentences or 30 words.
+	3. The part that cannot be output can be replaced by Chinese
+	4. After the simulation, record the conversation and perform error checking and summary.
+
+Date:20250905
+=====================================
+ TrainingType : Transcription
+ Lesson : NewConceptEnglish-2,035 036
+ DrillResult:unfished
+ ------------------
+ TrainingType : Listening
+ Lesson : NewConceptEnglish-2,035 036
+ DrillResult:unfished
+ ------------------
+ TrainingType : Reading
+ Lesson : AnarchyUnbound,merge
+ DrillResult:unfished
+ Demand: Read the book AnarchyUnbound for 5 sentences:93~98
+ ------------------
+ TrainingType : WriteSpeak
+ Lesson : WriteSpeakTraining,250903
+ DrillResult:unfished
+ Demand: 
+  1. Please write an essay based on the content and skills of today's practice session.
+  2. The essay or conversation should contain at least four sentences or 30 words.
+  3. The part that cannot be output can be replaced by Chinese
+  4. After the simulation, record the conversation and perform error checking and summary.
+ ------------------
+
+
+Date:20250907
+=====================================
+ TrainingType : Transcription
+ Lesson : NewConceptEnglish-2,037 038
+ DrillResult:fished
+ ------------------
+ TrainingType : Listening
+ Lesson : NewConceptEnglish-2,037 038
+ DrillResult:fished
+ ------------------
+ TrainingType : Reading
+ Lesson : AnarchyUnbound,01
+ DrillResult:fished
+ Demand: Read the book AnarchyUnbound for 5 sentences:96~101
+ ------------------
+ TrainingType : WriteSpeak
+ Lesson : WriteSpeakTraining,250903
+ DrillResult:unfished
+ Demand: 
+  1. Please write an essay based on the content and skills of today's practice session.
+  2. The essay or conversation should contain at least four sentences or 30 words.
+  3. The part that cannot be output can be replaced by Chinese
+  4. After the simulation, record the conversation and perform error checking and summary.
+ ------------------
+
+
+Date:20250909～20250910
+=====================================
+ TrainingType : Transcription
+ Lesson : NewConceptEnglish-2,039 040
+ DrillResult:fished
+ Demand: 
+  1. Please read the learn_note.text_chines_english in the course before practicing the new course
+  2. Please study the corresponding video tutorial after reading document learn_note.text_chines_english
+  3. Please memorize the text after watching the video tutorial
+ ------------------
+ TrainingType : Listening
+ Lesson : NewConceptEnglish-2,039 040
+ DrillResult:fished
+ ------------------
+ TrainingType : Reading
+ Lesson : AnarchyUnbound,merge
+ DrillResult:fished
+ Demand: Read the book AnarchyUnbound for 10 sentences:97~107
+ ------------------
+ TrainingType : WriteSpeak
+ Lesson : WriteSpeakTraining,250909
+ DrillResult:unfished
+ Demand: 
+  1. Please write an essay based on the content and skills of today's practice session.
+  2. The essay or conversation should contain at least four sentences or 30 words.
+  3. The part that cannot be output can be replaced by Chinese
+  4. After the simulation, record the conversation and perform error checking and summary.
+ ------------------
+
+
+Date:20250911
+=====================================
+ TrainingType : Transcription
+ Lesson : NewConceptEnglish-2,041
+ DrillResult:unfished
+ Demand: 
+  1. Please read the learn_note.text_chines_english in the course before practicing the new course
+  2. Please study the corresponding video tutorial after reading document learn_note.text_chines_english
+  3. Please memorize the text after watching the video tutorial
+ ------------------
+ TrainingType : Listening
+ Lesson : NewConceptEnglish-2,041
+ DrillResult:unfished
+ ------------------
+ TrainingType : Reading
+ Lesson : AnarchyUnbound,merge
+ DrillResult:unfished
+ Demand: Read the book AnarchyUnbound for 5 sentences:107~112
+ ------------------
+ TrainingType : WriteSpeak
+ Lesson : WriteSpeakTraining,250910
+ DrillResult:unfished
+ Demand: 
+  1. Please write an essay based on the content and skills of today's practice session.
+  2. The essay or conversation should contain at least four sentences or 30 words.
+  3. The part that cannot be output can be replaced by Chinese
+  4. After the simulation, record the conversation and perform error checking and summary.
+ ------------------
