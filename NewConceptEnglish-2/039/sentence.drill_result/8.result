@@ -1,1 +1,2 @@
 Then Dr. Millington asked \033[1;31mx to x\033[0m the caller if he was a relative of the patient.
+Then Dr. Millington asked the \033[1;36mcaller\033[0m if he was a \033[1;36mrelative\033[0m of the \033[1;31mpatient\033[0m.
