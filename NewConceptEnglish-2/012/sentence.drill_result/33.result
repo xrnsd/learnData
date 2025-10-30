@@ -1,1 +1,2 @@
 Tony will arrive \033[1;31mla\033[0m\033[1;36mte\033[0m in the afternoon.
+Tony will arrive la\033[1;36mte in the\033[0m afternoon.

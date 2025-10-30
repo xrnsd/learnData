@@ -1,1 +1,2 @@
 Their sleeping bags were warm and comfortable, so they \033[1;31mx were x\033[0m all slept soundly.
+Their \033[1;31msleeping bags\033[0m were warm and comfortable, so they all slept \033[41;38msoundly\033[0m.
