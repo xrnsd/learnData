@@ -1,2 +1,4 @@
 I'll see \033[1;31mif\033[0m she went to look at the elephants again.
 \033[1;36mI'll\033[0m see if she went to look \033[1;36mat\033[0m the elephants again.
+I\033[1;36m'll\033[0m see \033[1;36mif\033[0m she went to look at the \033[1;36melephants\033[0m again.
+I\033[1;36m'll\033[0m see \033[1;36mif\033[0m she went to look at the \033[41;38melephants\033[0m again.
