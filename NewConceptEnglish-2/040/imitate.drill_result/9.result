@@ -1,1 +1,2 @@
 ‘Will you be stay\033[1;36ming in\033[0m London?’ I asked. ‘No,’ he answered.
+\033[1;31m‘Will\033[0m you be staying \033[1;36min\033[0m London?’ I asked. ‘No,’ he answered.
