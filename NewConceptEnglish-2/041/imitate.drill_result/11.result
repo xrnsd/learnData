@@ -1,1 +1,2 @@
 Ten minutes later we \033[1;31mwalked\033[0m out of the store together.
+Ten minutes later we walked out \033[41;38mof\033[0m the store \033[1;31mtogether\033[0m.

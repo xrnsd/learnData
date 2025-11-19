@@ -2,3 +2,4 @@ A short while ago, however, he \033[1;31mx has x\033[0m \033[1;31mbecame\033[0m 
 \033[1;31mA short while ago\033[0m, however, he became a bus driver and he \033[1;31mhas\033[0m not \033[1;31mregretted it\033[0m.
 \033[41;38mA short while ago\033[0m, however, he became a bus driver and he has not \033[41;38mregretted\033[0m it.
 A short while ago, however, he became a bus driver and he has not regretted \033[1;31mit\033[0m.
+\033[41;38mA short while ago\033[0m, however, he became a bus driver and he \033[41;38mhas\033[0m not regret\033[1;31mted\033[0m it.

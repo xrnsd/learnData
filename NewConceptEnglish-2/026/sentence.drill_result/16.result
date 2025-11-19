@@ -1,3 +1,4 @@
 She looked at it \033[1;31mcritically\033[0m for a moment.
 She looked at \033[1;36mit\033[0m \033[1;31mcritically\033[0m for a moment.
 She \033[41;38mlooked at it critically\033[0m for a moment.
+She \033[1;31mlooked at it\033[0m \033[41;38mcritically\033[0m for a moment.

@@ -1,3 +1,4 @@
 It was his job to repair bicycle\033[1;31ms\033[0m and at that time he used to work fourteen hours a day.
 It was his job to repair bicycles and at that time he used to work \033[1;31mx for x\033[0m fourteen hours a day.
 It was \033[1;36mhis\033[0m job to repair bicycles and a\033[1;36mt\033[0m tha\033[1;36mt t\033[0mime he used to work fourteen hours a day.
+\033[1;31mIt was his job to repair bicycles\033[0m and \033[41;38mat that time\033[0m he used to work \033[1;31mx for x\033[0m fourteen hours a day.

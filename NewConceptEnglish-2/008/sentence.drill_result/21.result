@@ -1,2 +1,3 @@
 Tom is the tallest of \033[1;31mthe\033[0m three brothers.
 To\033[1;36mm is\033[0m the talles\033[1;36mt of\033[0m the three brothers.
+Tom is the \033[1;31mtallest of the\033[0m three brothers.
