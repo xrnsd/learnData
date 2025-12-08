@@ -1,0 +1,17 @@
+#ini
+[informationInThisDb]
+versionNum=v0.1
+
+[failTimeSDR]
+needRepetionDrill/word_aloud/1=0
+needRepetionDrill/word_aloud/2=0
+needRepetionDrill/word_aloud/3=0
+needRepetionDrill/word_aloud/4=0
+needRepetionDrill/word_aloud/5=0
+needRepetionDrill/word_aloud/6=0
+needRepetionDrill/word_aloud/7=0
+needRepetionDrill/word_aloud/8=0
+needRepetionDrill/word_aloud/9=0
+needRepetionDrill/word_aloud/10=0
+needRepetionDrill/word_aloud/11=0
+needRepetionDrill/word_aloud/12=0
