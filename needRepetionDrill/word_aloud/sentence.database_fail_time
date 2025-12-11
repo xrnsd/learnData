@@ -4,18 +4,18 @@ versionNum=v0.1
 
 [failTimeSDR]
 needRepetionDrill/word_aloud/1=0
-needRepetionDrill/word_aloud/2=1
+needRepetionDrill/word_aloud/2=3
 needRepetionDrill/word_aloud/3=0
 needRepetionDrill/word_aloud/4=-1
 needRepetionDrill/word_aloud/5=-1
 needRepetionDrill/word_aloud/6=0
 needRepetionDrill/word_aloud/7=-2
-needRepetionDrill/word_aloud/8=-1
+needRepetionDrill/word_aloud/8=-2
 needRepetionDrill/word_aloud/9=0
-needRepetionDrill/word_aloud/10=-1
-needRepetionDrill/word_aloud/11=0
-needRepetionDrill/word_aloud/12=0
-needRepetionDrill/word_aloud/13=0
+needRepetionDrill/word_aloud/10=0
+needRepetionDrill/word_aloud/11=1
+needRepetionDrill/word_aloud/12=-1
+needRepetionDrill/word_aloud/13=1
 needRepetionDrill/word_aloud/14=0
 needRepetionDrill/word_aloud/15=0
 needRepetionDrill/word_aloud/16=0
