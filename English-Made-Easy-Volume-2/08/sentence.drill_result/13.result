@@ -1,2 +1,2 @@
-This is a \033[1;31mgiraffe\033[0m. \033[1;31mGiraffes\033[0m live in Africa too.
-This is a \033[1;31mgiraffe\033[0m. \033[1;31mGiraffes\033[0m live in \033[1;31mAfrica\033[0m too.
+This is a **giraffe*. **Giraffes* live in Africa too.
+This is a **giraffe*. **Giraffes* live in **Africa* too.

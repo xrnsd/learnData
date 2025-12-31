@@ -1,4 +1,4 @@
-I think you should go to the doctor, Sue, \033[1;31min case it's\033[0m broken.
-I think \033[1;36myou\033[0m shoul\033[1;36md\033[0m go to the doctor, Sue, in case \033[1;36mit's\033[0m broken.
-I think \033[1;31myou\033[0m should go to the doctor, Sue, in case \033[1;31mit's\033[0m broken.
-I think \033[1;36myou\033[0m should go to the doctor, Sue, in case it's broken.
+I think you should go to the doctor, Sue, **in case it's* broken.
+I think ++you+ shoul++d+ go to the doctor, Sue, in case ++it's+ broken.
+I think **you* should go to the doctor, Sue, in case **it's* broken.
+I think ++you+ should go to the doctor, Sue, in case it's broken.

@@ -1,2 +1,2 @@
-Which car would you like? We don't need \033[1;36ma\033[0m big car. So I think the \033[1;31mVixen\033[0m would be good. Yes, that one is 6\033[1;31m5\033[0m$ a day.
-Which car would you like? We don't need \033[1;31ma\033[0m big car. So I think \033[1;31mthe\033[1;31m Vixen would be good. Yes, that one is 6\033[1;31m5\033[0m$ a day.
+Which car would you like? We don't need ++a+ big car. So I think the **Vixen* would be good. Yes, that one is 6**5*$ a day.
+Which car would you like? We don't need **a* big car. So I think **the\033[1;31m Vixen would be good. Yes, that one is 6\033[1;31m5*$ a day.

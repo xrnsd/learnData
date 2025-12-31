@@ -1,2 +1,2 @@
-If I\033[1;36m'm \033[0mthe only one having dessert, I'll have some ice cream \033[1;31mat\033[0m home
-If I'm the only one having dessert, I'll have some ice crea\033[1;36mm at\033[0m home.
+If I++'m +the only one having dessert, I'll have some ice cream **at* home
+If I'm the only one having dessert, I'll have some ice crea++m at+ home.

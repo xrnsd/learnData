@@ -1,3 +1,3 @@
-Can I help \033[1;31mwith the\033[0m dishes Aunt Peggy? No, it's all right.
-Can I help \033[1;31mwith\033[0m the dishes Aunt Peggy? No, it's all right.
-Can I help \033[1;36mwith\033[0m the dishes Aunt Peggy? No, it's all right.
+Can I help **with the* dishes Aunt Peggy? No, it's all right.
+Can I help **with* the dishes Aunt Peggy? No, it's all right.
+Can I help ++with+ the dishes Aunt Peggy? No, it's all right.

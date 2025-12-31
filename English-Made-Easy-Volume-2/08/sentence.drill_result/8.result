@@ -1,3 +1,3 @@
-We'll begin by going \033[1;31m x in x\033[0m this way to the \033[1;31mlions\033[0m and tigers.
-We'll begin by going this way to \033[1;31mthe\033[0m lions and tigers.
-We\033[1;36m'll\033[0m begin by going this way to the \033[1;36mlions\033[0m and \033[1;36mtigers\033[0m.
+We'll begin by going ** x in x* this way to the **lions* and tigers.
+We'll begin by going this way to **the* lions and tigers.
+We++'ll+ begin by going this way to the ++lions+ and ++tigers+.

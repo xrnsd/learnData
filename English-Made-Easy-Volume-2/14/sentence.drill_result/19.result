@@ -1,3 +1,3 @@
-It's \033[1;31m$13\033[0m a day extra, and it's 10 \033[1;31mcents\033[0m a \033[1;31mkilometer\033[0m over 200 kilometers \033[1;31ma\033[0m day.
-It's \033[1;31m$13\033[0m a day extra, and \033[1;36mit's\033[0m 10 cents a kilometer over 200 kilometers a day.
-It's 13$ a day extra, and \033[1;36mi\033[0mt's 10 cents a kilomemter over 200 kilometers a day.
+It's **$13* a day extra, and it's 10 **cents* a **kilometer* over 200 kilometers **a* day.
+It's **$13* a day extra, and ++it's+ 10 cents a kilometer over 200 kilometers a day.
+It's 13$ a day extra, and ++i+t's 10 cents a kilomemter over 200 kilometers a day.

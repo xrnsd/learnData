@@ -1,2 +1,2 @@
-But there is a 10% discount \033[1;31mif you\033[0m rent \033[1;31mthe\033[0m car for a week
-But there is \033[1;31ma\033[0m 10% discount if you rent \033[1;31mthe\033[0m car for a week.
+But there is a 10% discount **if you* rent **the* car for a week
+But there is **a* 10% discount if you rent **the* car for a week.

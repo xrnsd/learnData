@@ -1,4 +1,4 @@
-She \033[1;31mtore\033[0m her jeans, too. \033[1;31mLet me\033[0m look at it.
-She \033[1;31mtore\033[0m her jeans, too. Let me look at it.
-She \033[1;36mtore her jeans\033[0m, too. Let me look at it.
-She \033[41;38mtore\033[0m her jean\033[41;38ms\033[0m, \033[41;38mtoo\033[0m. Let me \033[41;38mlook at it\033[0m.
+She **tore* her jeans, too. **Let me* look at it.
+She **tore* her jeans, too. Let me look at it.
+She ++tore her jeans+, too. Let me look at it.
+She --tore- her jean--s-, --too-. Let me --look at it-.
