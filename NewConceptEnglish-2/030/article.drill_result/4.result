@@ -1,2 +1,2 @@
-It was \033[1;31mx very x\033[0m warm last Sunday, so I went and sat on the river bank as usual.
-It was warm last Sunday, so I went and sat \033[1;31mon\033[0m the river bank as usual.
+It was **x very x* warm last Sunday, so I went and sat on the river bank as usual.
+It was warm last Sunday, so I went and sat **on* the river bank as usual.

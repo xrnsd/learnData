@@ -1,1 +1,1 @@
-If you receive \033[1;31ma\033[0m request \033[1;36mlike this\033[0m, you cannot \033[1;31mfail\033[0m to obey it!
+If you receive **a* request \033[1;36mlike this\033[0m, you cannot **fail* to obey it!

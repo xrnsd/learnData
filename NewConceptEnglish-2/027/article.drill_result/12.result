@@ -1,2 +1,2 @@
-It \033[1;31mwas\033[0m raining heavily \033[1;31mand\033[0m they found \033[1;31mthat\033[0m a stream had formed\033[0m in the field.
-It was raining heavily and they found that a stream \033[1;31mhad\033[0m formed in the field.
+It **was* raining heavily **and* they found **that* a stream had formed\033[0m in the field.
+It was raining heavily and they found that a stream **had* formed in the field.

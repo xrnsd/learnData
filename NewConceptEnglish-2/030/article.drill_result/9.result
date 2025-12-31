@@ -1,2 +1,2 @@
-I turned \033[1;31mto\033[0m look at the children, but there weren’t \033[1;31many in\033[0m sight: they \033[1;31mhad all\033[0m run away!
-I turned to look at the children, but there weren\033[1;31m’t any in sight\033[0m: they \033[1;31mhad\033[0m all run away!
+I turned **to* look at the children, but there weren’t **any in* sight: they **had all* run away!
+I turned to look at the children, but there weren**’t any in sight*: they **had* all run away!

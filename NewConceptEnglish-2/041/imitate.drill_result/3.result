@@ -1,2 +1,2 @@
-I sat \033[41;38mdown on\033[0m one of \033[1;31mthose\033[0m modern sofa\033[1;31ms and\033[0m waited.
-I \033[1;31msat down\033[0m \033[41;38mon one of those\033[0m modern sofas \033[1;31mand\033[0m wait\033[1;31med\033[0m.
+I sat \033[41;38mdown on\033[0m one of **those* modern sofa**s and* waited.
+I **sat down* \033[41;38mon one of those\033[0m modern sofas **and* wait**ed*.
