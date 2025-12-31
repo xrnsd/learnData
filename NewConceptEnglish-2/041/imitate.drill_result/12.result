@@ -1,2 +1,2 @@
-My brother **was wearing* a shirt **that looked* like \033[41;38ma circus\033[0m tent!
-My brother was wearing a shirt \033[41;38mthat\033[0m **looked* like \033[41;38ma circus\033[0m tent!
+My brother **was wearing* a shirt **that looked* like --a circus- tent!
+My brother was wearing a shirt --that- **looked* like --a circus- tent!
