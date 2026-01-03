@@ -3,7 +3,7 @@
 versionNum=v0.1
 
 [failTimeSDR]
-English-Made-Easy-Volume-2/01/22=2
+English-Made-Easy-Volume-2/01/22=1
 English-Made-Easy-Volume-2/02/1=-2
 English-Made-Easy-Volume-2/03/12=-1
 English-Made-Easy-Volume-2/04/1=2
@@ -220,7 +220,7 @@ NewConceptEnglish-2/046/6=2
 NewConceptEnglish-2/046/8=4
 NewConceptEnglish-2/046/9=4
 NewConceptEnglish-2/047/2=-2
-NewConceptEnglish-2/047/3=1
+NewConceptEnglish-2/047/3=2
 NewConceptEnglish-2/047/5=0
 NewConceptEnglish-2/047/9=4
 NewConceptEnglish-2/048/2=0
@@ -311,7 +311,7 @@ NewConceptEnglish-2/007/28=0
 English-Made-Easy-Volume-2/07/15=2
 NewConceptEnglish-2/070/2=0
 NewConceptEnglish-2/070/3=1
-NewConceptEnglish-2/070/5=0
+NewConceptEnglish-2/070/5=-1
 NewConceptEnglish-2/070/6=0
 NewConceptEnglish-2/070/7=1
 NewConceptEnglish-2/070/8=0
@@ -451,3 +451,7 @@ NewConceptEnglish-2/086/11=0
 NewConceptEnglish-2/086/12=0
 ImitateNewConceptEnglish-2/009/6=0
 ImitateNewConceptEnglish-2/050/1=2
+NewConceptEnglish-2/087/6=0
+NewConceptEnglish-2/087/7=0
+NewConceptEnglish-2/087/14=0
+NewConceptEnglish-2/087/15=0
